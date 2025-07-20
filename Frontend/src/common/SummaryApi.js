@@ -1,5 +1,5 @@
 // export const baseURL = "http://localhost:8080";
-export const baseURL = "https://your-backend-name.onrender.com";
+export const baseURL = "https://full-stack-e-commerce-mern-app-main.onrender.com";
 
 const SummaryApi = {
     register : {
