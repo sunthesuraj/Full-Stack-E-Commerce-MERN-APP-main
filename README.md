@@ -39,4 +39,4 @@
 <p>QuickBuy aims to bridge the gap between instant delivery services and traditional online marketplaces by offering both quick and standard delivery options, streamlining the shopping process and providing a single platform for all shopping needs.
 </p>
 
-<h1>Live Site : </h1> <h1>https://quickbuy-frontend-5j1i.onrender.com</h1>
+
